@@ -4,7 +4,7 @@ Sections 15-19
 
 ## Section 15
 
-"Placepicker App" with a simple backend component that we call in order to get our information on places.
+"Placepicker" app with a simple backend component that we call in order to get our information on places.
 
 - Handling Errors
 - Calculating Distance between 2 Places in the world
@@ -15,13 +15,15 @@ Sections 15-19
 
 ## Section 16
 
-"Placepicker App" with a simple backend component that we call in order to get our information on places.
+"Placepicker" app with a simple backend component that we call in order to get our information on places.
 
 - React Hooks
 - Creating Custom Hooks
 - Using a promise in AvailablePlaces.jsx
 
 ## Section 17
+
+"React Forms" app where you handle user inputs into a form.
 
 ## Section 18
 
