@@ -27,6 +27,10 @@ export default function Login() {
 			...prevValues,
 			[identifier]: value,
 		}));
+		setDidEdit((prevEdit) => ({
+			...prevEdit,
+			[identifier]: false,
+		}));
 	}
 
 	// function handleEmailChange(event) {
