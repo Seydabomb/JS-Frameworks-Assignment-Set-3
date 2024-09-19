@@ -42,4 +42,6 @@ Sections 15-19
 
 "ReactFood" app where a user can add products to cart, adjust the quantities, then go to a form to start the transaction process.
 
+- The cart utilizes "createContext" from react & <CartContext.Provider>
+
 ## Section 19
