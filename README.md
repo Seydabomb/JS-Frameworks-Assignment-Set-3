@@ -26,10 +26,17 @@ Sections 15-19
 "React Forms" app where you handle user inputs into a form.
 
 - User inputs email and password to <ins>Login</ins>.
-  - UseRef() to saving email and password
-  - UseState() does the same thing with more code
+
+  - UseRef() in "Login"
+    - Doesn't validate on every keystroke
+    - Validates only on form submission (clicking the login button)
+  - UseState() in "StateLogin"
+    - Does validate on every keystroke
+
 - User inputs Email, Password, Confirms the Password, First Name, Last Name, Their Role, How they found Us, & Agrees to Terms & Conditions to <ins>Sign up</ins>.
+  - Password & Confirm Password validation in "Signup"
 - User can click the "Reset" button which clears all the form inputs.
+  - Didn't actually do that functionality
 
 ## Section 18
 
