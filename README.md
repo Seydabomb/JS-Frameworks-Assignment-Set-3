@@ -40,4 +40,6 @@ Sections 15-19
 
 ## Section 18
 
+"ReactFood" app where a user can add products to cart, adjust the quantities, then go to a form to start the transaction process.
+
 ## Section 19
