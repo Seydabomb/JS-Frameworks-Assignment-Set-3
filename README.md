@@ -44,5 +44,6 @@ Sections 15-19
 
 - The cart utilizes "createContext" from react & <CartContext.Provider>
 - Utilizes "createPortal" from react-dom in Modal.jsx
+- It handles form validation and clears the cart upon submission.
 
 ## Section 19
