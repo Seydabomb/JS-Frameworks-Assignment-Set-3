@@ -49,3 +49,8 @@ Sections 15-19
 ## Section 19
 
 Intro to Redux, the alternative to react context.
+
+- Part 1 is just building a simple js file using Redux that only outputs in the terminal
+- Part 2 is "Redux Auth" app for Redux + React
+  - Doing Redux with a Component Function & doing Redux with a Class Component in "Counter.js"
+  - Using Redux toolkit also in "Counter.js" and store/index.js
