@@ -47,3 +47,5 @@ Sections 15-19
 - It handles form validation and clears the cart upon submission.
 
 ## Section 19
+
+Intro to Redux, the alternative to react context.
